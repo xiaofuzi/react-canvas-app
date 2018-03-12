@@ -1,0 +1,19 @@
+{
+  "name": "react-canvas-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "easycanvas": "^0.2.8",
+    "fbjs": "^0.8.16",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-reconciler": "^0.7.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
